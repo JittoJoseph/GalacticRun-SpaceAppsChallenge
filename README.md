@@ -33,7 +33,7 @@ In Galactic Run, you take control of an elite spaceship tasked with defending hu
 **Getting Started**
 -------------------
 
-1. Download the game demo: [Galactic Run Demo (Windows)]([[https://github.com/your-username/Galactic-Run/releases/download/v1.0/GalacticRunDemoSetup.exe](https://github.com/JittoJoseph/GalacticRun-SpaceAppsChallenge/releases/download/galacticrun/GalacticRun-windows-installer-1.3.0.exe)])
+1. Download the game demo: [Galactic Run Demo (Windows)](https://github.com/JittoJoseph/GalacticRun-SpaceAppsChallenge/releases/download/galacticrun/GalacticRun-windows-installer-1.3.0.exe)
 2. Run the installer and follow the instructions to install the game
 3. Launch the game from your start menu or desktop shortcut
 
